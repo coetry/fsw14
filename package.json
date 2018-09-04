@@ -1,0 +1,20 @@
+{
+  "name": "fsw14",
+  "description": "managing students of fsw14",
+  "version": "0.0.0",
+  "repository": {
+    "url": "git://github.com/coetry/fsw14.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel start index.html",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "choo": "^6.13.0"
+  },
+  "devDependencies": {
+    "parcel": "^1.9.7"
+  },
+  "author": "Allen Hai <allenhai03@gmail.com> (https://allenhai.now.sh)"
+}
